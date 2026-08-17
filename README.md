@@ -1,34 +1,295 @@
-<h1 align="center">Hi 👋, I'm Aashish Chippa</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryan&label=Profile%20views&color=0e75b6&style=flat" alt="aaryan" /> </p>
+# 👋 Hi, I'm Aashish Chippa
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaryan" alt="aaryan" /></a> </p>
+### 🛡️ Cybersecurity Enthusiast • 💻 Software Developer • 🤖 AI in Cybersecurity
 
-- 🔭 I’m currently working on **CyberSecurity**
-
-- 🌱 I’m currently learning **Ai In CyberSecurity**
-
-- 👯 I’m looking to collaborate on **Ai In CyberSecurity**
-
-- 🤝 I’m looking for help with **Ai In CyberSecurity**
-
-- 💬 Ask me about **Full Stack Dev**
-
-- 📫 How to reach me **chippaaaryan@gmail.com**
-
-- ⚡ Fun fact **I'm interest in designing , Gaming etc.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aashish chippa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashish chippa" height="30" width="40" /></a>
-<a href="https://instagram.com/aaryxn_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaryxn_8" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aaryan_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aaryan_8" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/Aaryan08-web">
+    <img src="https://img.shields.io/badge/GitHub-Aaryan08--web-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://in.linkedin.com/in/aashishchippa786108">
+    <img src="https://img.shields.io/badge/LinkedIn-Aashish%20Chippa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:chippaaaryan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Aaryan08-web&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryan&show_icons=true&locale=en&layout=compact" alt="aaryan" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryan&show_icons=true&locale=en" alt="aaryan" /></p>
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science Engineering student from India** with a growing interest in **Cybersecurity, Artificial Intelligence, and Full-Stack Development**.
+
+I enjoy turning ideas into practical software, exploring security problems, and continuously improving my problem-solving skills through development and DSA.
+
+```text
+🛡️ Cybersecurity
+🤖 AI + Security
+🌐 Full-Stack Development
+📱 Application Development
+🧠 Data Structures & Algorithms
+🎨 UI/UX & Design
+🏆 Hackathons & Technical Projects
+```
+
+* 🔭 Currently working on **Cybersecurity-focused projects**
+* 🌱 Currently learning **AI in Cybersecurity**
+* 🤝 Interested in collaborating on **Cybersecurity & AI projects**
+* 💬 Ask me about **Full-Stack Development**
+* 🎮 Outside coding: **Gaming & Designing**
+* 📍 Based in **India**
+* 📫 Reach me at **[chippaaaryan@gmail.com](mailto:chippaaaryan@gmail.com)**
+
+---
+
+## 🧭 What I'm Focused On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ Cybersecurity
+
+* Security fundamentals
+* Threat detection
+* Secure application development
+* Security research
+* AI-powered security
+
+</td>
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+* AI fundamentals
+* Machine Learning
+* AI-assisted security
+* Anomaly detection
+* Intelligent security systems
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Full-Stack Development
+
+* Frontend development
+* Backend development
+* REST APIs
+* Databases
+* Authentication
+
+</td>
+<td width="50%">
+
+### 🧠 Problem Solving
+
+* Data Structures
+* Algorithms
+* C++
+* Competitive programming
+* Logical problem solving
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css" alt="Programming Languages"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" alt="Web Technologies"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
+</p>
+
+### ☁️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,aws,gcp" alt="Tools and Platforms"/>
+</p>
+
+### 📊 Data & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+</p>
+
+---
+
+# 🚀 Featured Areas
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🛡️ Cybersecurity
+
+Security-focused projects, research, experiments and learning.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 AI + Security
+
+Exploring how AI can be used for detection, analysis and security automation.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 Full Stack
+
+Building complete applications from frontend interfaces to backend APIs and databases.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Currently Learning
+
+```text
+Cybersecurity
+    │
+    ├── Security Fundamentals
+    ├── Web Security
+    ├── Threat Detection
+    └── Security Research
+           │
+           ▼
+Artificial Intelligence
+    │
+    ├── Machine Learning
+    ├── Anomaly Detection
+    └── AI for Cybersecurity
+           │
+           ▼
+Software Development
+    │
+    ├── Full-Stack Development
+    ├── APIs & Backend
+    └── Database Systems
+           │
+           ▼
+Problem Solving
+    │
+    ├── DSA
+    ├── C++
+    └── Competitive Programming
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aaryan08-web&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="GitHub Statistics"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan08-web&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Aaryan08-web&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aaryan08-web&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] 🧠 Become strong in Data Structures & Algorithms
+* [ ] 🛡️ Build serious Cybersecurity projects
+* [ ] 🤖 Explore AI applications in Cybersecurity
+* [ ] 🌐 Become a stronger Full-Stack Developer
+* [ ] 🏆 Participate in more hackathons
+* [ ] 🔬 Conduct Cybersecurity research
+* [ ] 🤝 Contribute to Open Source
+* [ ] 🚀 Deploy real-world applications
+* [ ] 💼 Prepare for software development internships
+
+---
+
+# 💡 My Development Philosophy
+
+> **Learn deeply. Build consistently. Break things. Understand why. Build better.**
+
+I believe the best way to learn software engineering is to **build real things**, understand how they work, and continuously improve them.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://in.linkedin.com/in/aashishchippa786108">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.instagram.com/aaryxn_8/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://leetcode.com/aaryan_8/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="mailto:chippaaaryan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building today. Securing tomorrow. 🚀
+
+**Thanks for visiting my profile!**
+
+⭐ Explore my repositories and feel free to connect.
+
+</div>
