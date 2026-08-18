@@ -123,23 +123,27 @@
 
 ---
 
-## 🛠️ Tech Stack 
+##🛠️ Tech Stack
 
-<div align="center">
+👨‍💻 Languages
 
-### 💻 Languages & Frameworks
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nodejs,express,tailwind,bootstrap" alt="Languages & Web Skills" />
-</a>
+<p> <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css" alt="Programming Languages"/> </p>
 
-<br/>
+🌐 Web Development
 
-### 🗄️ Databases, Cloud & Developer Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,gcp,git,github,vscode,figma" alt="Databases & Tools" />
-</a>
+<p> <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" alt="Web Technologies"/> </p>
 
-</div>
+🗄️ Databases
+
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/> </p>
+
+☁️ Tools & Platforms
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,aws,gcp" alt="Tools and Platforms"/> </p>
+
+📊 Data & AI
+
+<p> <img src="https://skillicons.dev/icons?i=python" alt="Python"/> </p>
 
 ---
 
