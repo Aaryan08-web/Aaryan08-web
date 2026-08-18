@@ -106,6 +106,26 @@ I enjoy turning ideas into practical software, exploring security problems, and 
 
 ---
 
+# 🏆 Achievements
+
+<div align="center">
+
+## 🥇 Alogoverse'26 — Finalist
+
+### 🚀 Hackathon Finalist
+
+**Alogoverse'26**
+
+> Reached the **Final Round** of Alogoverse'26, competing with talented developers and teams by building and presenting a technology-driven solution.
+
+🏆 **Achievement:** Finalist
+💻 **Category:** Hackathon
+🚀 **Focus:** Innovation • Software Development • Problem Solving
+
+</div>
+
+---
+
 # 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
@@ -277,7 +297,7 @@ I believe the best way to learn software engineering is to **build real things**
 </a>
 
 <a href="mailto:chippaaaryan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
