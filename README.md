@@ -357,35 +357,27 @@ Turning ideas into working prototypes under real-world time and technical constr
 <a href="https://in.linkedin.com/in/aashishchippa786108">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
- 
-
+&nbsp;
 <a href="https://www.instagram.com/aaryxn_8/">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
- 
-
+&nbsp;
 <a href="https://leetcode.com/u/aaryan_8/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-
- 
-
+&nbsp;
 <a href="mailto:chippaaaryan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,50:0e75b6,100:0d1117&height=120&section=footer" width="100%" alt="Footer"/>
+<br><br>
 
 ### ⚡ Building Today. Securing Tomorrow. 🚀
 
 **Thanks for visiting my profile!**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,50:0e75b6,100:0d1117&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
