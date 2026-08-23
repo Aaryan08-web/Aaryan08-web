@@ -138,7 +138,7 @@ Scalable Systems
 ### 🌐 Frontend & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind,bootstrap" alt="Web Development"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind,bootstrap" alt="Web Development"/>
 </p>
 
 ### 🗄️ Databases
