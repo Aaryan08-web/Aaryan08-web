@@ -33,10 +33,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+Today.+Securing+Tomorrow.;Exploring+AI+for+Cybersecurity.;Building+Full-Stack+Applications.;Learning.+Building.+Improving.;Hackathon+Finalist+%40+Algoverse%2726" alt="Typing animation"/>
 
 <br>
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Aaryan08-web&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views"/>
-
 </div>
 
 ---
