@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0e75b6,100:161b22&height=230&section=header&text=Aashish%20Chippa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20%7C%20Full-Stack%20Development&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="Aashish Chippa"/>
-
-<br>
-
 <a href="https://github.com/Aaryan08-web">
 <img src="https://img.shields.io/badge/GitHub-Aaryan08--web-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://my-portfolio-neon-omega-80.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="https://in.linkedin.com/in/aashishchippa786108">
@@ -19,14 +19,6 @@
 <a href="mailto:chippaaaryan@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+Today.+Securing+Tomorrow.;Exploring+AI+for+Cybersecurity.;Building+Full-Stack+Applications.;Learning.+Building.+Improving.;Hackathon+Finalist+%40+Algoverse%2726" alt="Typing animation"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Aaryan08-web&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views"/>
 
 </div>
 
