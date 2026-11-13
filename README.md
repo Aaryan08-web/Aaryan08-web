@@ -2,7 +2,8 @@
 <div align="center">
 
 <!-- Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0e75b6,100:161b22&height=230&section=header&text=Aashish%20Chippa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20%7C%20Full-Stack%20Development&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="Aashish Chippa"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0e75b6,100:161b22&height=230&section=header&text=Aashish%20Chippa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20%7C%20Full-Stack%20Development&descAlignY=62&descSize=18" width="100%" alt="Aashish Chippa"/>
 
 <br>
 
