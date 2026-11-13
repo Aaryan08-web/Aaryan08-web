@@ -60,7 +60,7 @@ I'm particularly interested in how **AI can improve cybersecurity**, from intell
 
 ---
 
-🏆 Achievements
+ <h1><strong>🏆 Achievements</strong></h1>
 
 <div align="center">
 
@@ -68,13 +68,13 @@ I'm particularly interested in how **AI can improve cybersecurity**, from intell
 <tr>
 <td align="center" width="100%">
 
-🥇 Algoverse'26 — Hackathon Finalist
+<h2><strong>🥇 Algoverse'26 — Hackathon Finalist</strong></h2>
 
-Hackathon Finalist
+<p><strong>Hackathon Finalist</strong></p>
 
 🏆 Innovation   •   💻 Software Engineering   •   🧠 Problem Solving
 
-Reached the finalist stage of Algoverse'26, working under real-world hackathon constraints to develop and present a technology-driven solution.
+<p>Reached the <strong>finalist stage of Algoverse'26</strong>, working under real-world hackathon constraints to develop and present a technology-driven solution.</p>
 
 </td>
 </tr>
@@ -82,13 +82,13 @@ Reached the finalist stage of Algoverse'26, working under real-world hackathon c
 <tr>
 <td align="center" width="100%">
 
-🏆 Kurukshetra 2026 — National Hackathon Finalist
+<h2><strong>🏆 Kurukshetra 2026 — National Hackathon Finalist</strong></h2>
 
-National-Level Hackathon Finalist
+<p><strong>National-Level Hackathon Finalist</strong></p>
 
 💳 FinTech   •   🔐 Financial Security   •   🤖 Innovation
 
-Secured a place among the finalists by developing an innovative FinTech solution, exploring technology-driven approaches to strengthen digital payment security and tackle real-world financial challenges.
+<p>Secured a place among the finalists by developing an innovative <strong>FinTech solution</strong>, exploring technology-driven approaches to strengthen digital payment security and tackle real-world financial challenges.</p>
 
 </td>
 </tr>
@@ -96,13 +96,13 @@ Secured a place among the finalists by developing an innovative FinTech solution
 <tr>
 <td align="center" width="100%">
 
-🚀 Dehradun 2026 — National Hackathon Participant
+<h2><strong>🚀 Dehradun 2026 — National Hackathon Participant</strong></h2>
 
-National-Level Hackathon Participant
+<p><strong>National-Level Hackathon Participant</strong></p>
 
 🌐 National Collaboration   •   💳 FinTech   •   💡 Innovation
 
-Participated in a national-level hackathon bringing together students from across India, collaborating to develop FinTech solutions focused on digital transaction security and smarter financial technology.
+<p>Participated in a national-level hackathon bringing together students from across India, collaborating to develop <strong>FinTech solutions</strong> focused on digital transaction security and smarter financial technology.</p>
 
 </td>
 </tr>
