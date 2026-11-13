@@ -60,7 +60,7 @@ I'm particularly interested in how **AI can improve cybersecurity**, from intell
 
 ---
 
-# 🏆 Achievements
+🏆 Achievements
 
 <div align="center">
 
@@ -68,13 +68,41 @@ I'm particularly interested in how **AI can improve cybersecurity**, from intell
 <tr>
 <td align="center" width="100%">
 
-## 🥇 Algoverse'26 — Hackathon Finalist
+🥇 Algoverse'26 — Hackathon Finalist
 
-**Hackathon Finalist**
+Hackathon Finalist
 
 🏆 Innovation   •   💻 Software Engineering   •   🧠 Problem Solving
 
-Reached the **finalist stage of Algoverse'26**, working under real-world hackathon constraints to develop and present a technology-driven solution.
+Reached the finalist stage of Algoverse'26, working under real-world hackathon constraints to develop and present a technology-driven solution.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100%">
+
+🏆 Kurukshetra 2026 — National Hackathon Finalist
+
+National-Level Hackathon Finalist
+
+💳 FinTech   •   🔐 Financial Security   •   🤖 Innovation
+
+Secured a place among the finalists by developing an innovative FinTech solution, exploring technology-driven approaches to strengthen digital payment security and tackle real-world financial challenges.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100%">
+
+🚀 Dehradun 2026 — National Hackathon Participant
+
+National-Level Hackathon Participant
+
+🌐 National Collaboration   •   💳 FinTech   •   💡 Innovation
+
+Participated in a national-level hackathon bringing together students from across India, collaborating to develop FinTech solutions focused on digital transaction security and smarter financial technology.
 
 </td>
 </tr>
